@@ -44,7 +44,8 @@ nav {
 }
 
 .nav-btn:hover {
-    background-color: #777;
+    background-color: #90856c;
+    color: #475742;
 }
 
 .cta-card {
@@ -97,7 +98,7 @@ section {
 }
 
 .contact-btn:hover {
-    background-color: #218838;
+    background-color: #223e28;
 }
 
 #missao {
@@ -203,6 +204,7 @@ footer {
 #contato p {
     color: #BFB193;
 }
+
 
 #direitos {
     background-color: rgba(0, 0, 0, 0.2); /* Cor um pouco mais escura que o footer */
